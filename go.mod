@@ -1,4 +1,4 @@
-module github.com/ethereum/go-ethereum
+module github.com/ethereum/go-ethereum v1.0.0
 
 go 1.20
 
